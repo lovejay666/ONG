@@ -6,7 +6,7 @@ import { getClientConfig } from "./config/client";
 
 export const metadata = {
   title: "ONG-AI",
-  description: "个人自用人工智能",
+  description: "longz666",
   viewport: {
     width: "device-width",
     initialScale: 1,
