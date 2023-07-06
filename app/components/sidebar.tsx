@@ -117,7 +117,7 @@ export function SideBar(props: { className?: string }) {
     >
       <div className={styles["sidebar-header"]} data-tauri-drag-region>
         <div className={styles["sidebar-title"]} data-tauri-drag-region>
-          ONG-AI
+          LONG-AI
         </div>
         <div className={styles["sidebar-sub-title"]}>
           个人自用人工智能 by LZ

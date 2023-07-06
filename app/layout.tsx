@@ -5,7 +5,7 @@ import "./styles/highlight.scss";
 import { getClientConfig } from "./config/client";
 
 export const metadata = {
-  title: "ONG-AI",
+  title: "LONG-AI",
   description: "longz666",
   viewport: {
     width: "device-width",
@@ -17,7 +17,7 @@ export const metadata = {
     { media: "(prefers-color-scheme: dark)", color: "#151515" },
   ],
   appleWebApp: {
-    title: "ONG-AI",
+    title: "LONG-AI",
     statusBarStyle: "default",
   },
 };
